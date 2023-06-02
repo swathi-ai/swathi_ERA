@@ -1,4 +1,4 @@
-##### ERA Session 5
+### ERA Session 5
 This Session was mainly focussed on pytorch concepts and modularization of the code
 
 #### Description
@@ -7,7 +7,7 @@ optimization, auto grad and learning rate scheduler were practiced. Pytorch is p
 Also, modularization of the code was done like moving code to specific files which was written in single file.
 Three files **utils.py, model.py** and **S5.ipynb**  were used.
 
-### Getting Started
+#### Getting Started
 The three files in this project are:
   - utils.py
   + model.py
